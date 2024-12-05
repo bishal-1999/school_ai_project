@@ -1,0 +1,51 @@
+Table Name,Description
+Us_150,"Stores information about all users in the school, including students, teachers, admins, and staff."
+Stu_200,"Contains details about students, including their admission details and guardian information."
+Teac_120,"Contains details about teachers, including department and qualifications."
+Sta_110,Stores information about non-teaching staff and their designations.
+Cla_50,"Stores details about school classes, including assigned teachers."
+Sub_250,Contains details about subjects taught in each class.
+Atd_210,Tracks attendance records of students for each class.
+Exam_230,Contains details about examinations for each class.
+Grad_240,Stores grades and marks obtained by students in examinations.
+Dept_180,Stores information about departments and their heads.
+Lib_240,Contains information about books available in the school library.
+Bk_300,Tracks books issued to users from the library.
+Hst_400,"Stores details about hostels, including warden information."
+Hos_al_440,Tracks allocation of hostel rooms to students.
+Tran_350,Contains details about transport routes and drivers.
+Trans_Alloc_380,Tracks allocation of transport routes to students.
+Tm_tbl_390,Stores the timetable for each class.
+Evt_360,Contains information about school events and their organizers.
+Et_370,Tracks participation of students in school events.
+Fe_st_290,Stores details about fees for each class.
+Fee_Pay_60,Tracks fee payments made by students.
+Spt_10,Contains information about sports and their assigned coaches.
+Spt_Part_20,Tracks participation of students in sports.
+Cant_30,Stores details about items available in the school canteen.
+Cant_sal_70,Tracks sales transactions in the canteen.
+Annec_500,"Tracks important announcements for students, teachers, and staff. "
+Par_cont_510,Stores additional contact details for parents/guardians. 
+Cls_ast_520 ,Tracks assignments given to students. 
+Asst_sub_530 ,Tracks assignment submissions from students. 
+Onl_cls_540,Stores information about online classes. 
+Almn_550,Tracks details of graduated students. 
+Fedbck_560,"Captures feedback from students, teachers, or parents. "
+Exm_sch_570,Manages detailed schedules for exams. 
+Notf_580,Stores notifications sent to users. 
+Ext_act_590,Tracks non-academic activities. 
+Act_part_600,Links students to activities. 
+Schlr_610,Tracks scholarship information. 
+Schr_allc_620,Links students to scholarships. 
+Acd_clad_630 ,Stores events related to academics. 
+Std_mat_640,Tracks learning resources. 
+Compt_mang_650,Manages complaints raised by students or staff. 
+Awd_660 ,Tracks awards given to students. 
+Invet_670,Tracks school inventory items. 
+Emeg_cont_680 ,Stores emergency contact details for users. 
+Mant_690 ,Tracks maintenance activities. 
+Vist_log_700,Logs visitor details. 
+Med_rep_710,Tracks student medical history. 
+Clb_mber_720,Manages student memberships in clubs. 
+Wrk_part_730 ,Tracks participation in workshops. 
+Couns_sess_800,Logs counseling sessions for students. 
